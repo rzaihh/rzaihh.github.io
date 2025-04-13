@@ -92,8 +92,8 @@
 
 <div style="display: flex; justify-content: space-around;">
   <img src="4b09636094565f10656a302a84e37db.jpg" width="30%" />
-  <img src="73a4a73aedc856b80c30aef17420021.jpg" width="35%" />
-  <img src="5a43cd2d3650ee72776a09e6ed996c7.jpg" width="35%" />
+  <img src="73a4a73aedc856b80c30aef17420021.jpg" width="30%" />
+  <img src="5a43cd2d3650ee72776a09e6ed996c7.jpg" width="30%" />
   <img src="cf388372d866df757ea74ab7d4c45c4.jpg" width="30%" />
 </div>
 
