@@ -1,3 +1,15 @@
+# 一周年想对你说：
+你看到这段话的这天，应该是我们的一周年纪念。  
+  
+今天是我们并肩走过的第366天，是我们新的一年的开始。遇见你是最美好的偶然，和你在一起是最大的幸运。  
+  
+8760个小时的陪伴，525600分钟的想念，每一秒都在印证我对你的爱意。  
+  
+因为你我开始注意饭后不能立刻躺下，因为你我开始想要运动，因为你我开始尝试不同穿搭，因为你我不停地畅想未来一起的人生。  
+  
+我们虽然还是会偶尔吵架，偶尔有对互相的不满，但我觉得这是感情加深，我们之间磨合的必经之路，我相信我们的未来会更好。  
+  
+希望拥抱不到的今年，这段文字能替我拥抱你。  
 # 属于仁哲和하현的日志
 <!-- 封面页 -->
 # 💖 我们的回忆录 💖
@@ -16,12 +28,12 @@
 ## 🥰 重逢的日子
 
 **时间**：2025年1月14日  
-**地点**：仁川机场  
+**地点**：仁川机场与peterpet  
 **心情**：虽然没睡好觉但是看到你时的激动让我超级精神
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="6.jpg" width="53%" />
-  <img src="18.jpg" width="30%" />
+  <img src="p1.jpg" width="53%" />
+  <img src="p2.jpg" width="30%" />
 </div>
 
 
@@ -45,8 +57,8 @@
 **时间**：2025年1月16日  
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="9.jpg" width="30%" />
-  <img src="10.jpg" width="30%" />
+  <img src="p3.jpg" width="30%" />
+  <img src="p4.jpg" width="30%" />
 </div>
 
 ---
@@ -80,7 +92,7 @@
 **时间**：2025年1月18日  
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="14.jpg" width="30%" />
+  <img src="p5.jpg" width="30%" />
   <img src="5.jpg" width="30%" />
 </div>
 
@@ -91,10 +103,8 @@
 **时间**：2025年1月20日  
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="8.jpg" width="30%" />
-  <img src="12.jpg" width="30%" />
-  <img src="11.jpg" width="30%" />
-  <img src="13.jpg" width="30%" />
+  <img src="p6.jpg" width="30%" />
+  <img src="p7.jpg" width="30%" />
 </div>
 
 
@@ -104,7 +114,19 @@
 
 **时间**：2025年1月22日  
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="p8.jpg" width="30%" />
+  <img src="p9.jpg" width="30%" />
+</div>
 
+---
+## 🌼 一起夜跑
+
+**时间**：2025年1月18日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p10.jpg" width="30%" />
+</div>
 
 ---
 
@@ -112,10 +134,105 @@
 
 **时间**：2025年1月20日  
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="p11.jpg" width="30%" />
+  <img src="p12.jpg" width="30%" />
+</div>
+
+---
+## 🌈 一起去釜山
+
+**时间**：2025年1月24日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p14.jpg" width="30%" />
+  <img src="p13.jpg" width="30%" />
+</div>
+
+---
+## 💐 一起去迪士尼
+
+**时间**：2025年3月6日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p15.jpg" width="30%" />
+  <img src="p16.jpg" width="30%" />
+</div>
+
+---
+## 🌼 一起去加平
+
+**时间**：2025年4月24日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p18.jpg" width="30%" />
+  <img src="p19.jpg" width="30%" />
+  <img src="p17.jpg" width="30%" />
+</div>
+
+---
+## 🎈 一起去网吧
+
+**时间**：2025年7月28日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="20.jpg" width="30%" />
+</div>
+
+---
+## 🌈 大家一起玩
+
+**时间**：2025年7月20日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p21.jpg" width="30%" />
+  <img src="p22.jpg" width="30%" />
+</div>
+
+---
+## 🌼 一起去水上乐园
+
+**时间**：2025年7月17日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p23.jpg" width="30%" />
+  <img src="p24.jpg" width="30%" />
+</div>
+
+---
+## 💐** 一起看日落
+
+**时间**：2025年9月21日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p25.jpg" width="30%" />
+  <img src="p26.jpg" width="30%" />
+</div>
+
+---
+## 🌈 一起看日出
+
+**时间**：2025年9月22日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p27.jpg" width="30%" />
+  <img src="p28.jpg" width="30%" />
+</div>
+
+---
+## 🌹 一起过生日
+
+**时间**：2025年9月22日  
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="p29.jpg" width="30%" />
+  <img src="p30.jpg" width="30%" />
+</div>
 
 ---
 
-## 🌈 我还没做完
+
+## 🌈 依旧未完待续
 、、、、、、、、、、、##
 
 ![我还没做完](61d970bbda52ad0403023cc4384a7e4.png)
@@ -127,8 +244,8 @@
 ## 📷 小日子拼图
 
 **日常碎片**：  
-- 一起看日落 🌇    
-- 深夜视频电话 💤  
+- 一起看Runningman 🌇    
+- 天天视频 💤  
 
 ---
 
